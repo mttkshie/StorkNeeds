@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786252034951",
+    "project_id": "storkneeds",
+    "storage_bucket": "storkneeds.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786252034951:android:6a8c80464f582e26651922",
+        "android_client_info": {
+          "package_name": "com.mttnkys.storkneeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCY6vB9GsbjKPl0Jo4GYTYzSCr-6QBEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
